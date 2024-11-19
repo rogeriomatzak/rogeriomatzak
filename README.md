@@ -14,5 +14,10 @@ Aqui você pode encontrar alguns dos meus projetos .
 - Python
 
 
+## 📈 Meu Mapa de Contribuições
+
+Aqui está o meu mapa de contribuições no GitHub:
+
+![GitHub Activity](https://ghchart.rshb.xyz/rogeriomatzak)
 
 

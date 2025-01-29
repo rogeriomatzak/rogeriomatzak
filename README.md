@@ -12,6 +12,9 @@ Aqui você pode encontrar alguns dos meus projetos .
 - Docker
 - JAVA
 - Python
+- R
+- Git
+- Node 
 
 
 

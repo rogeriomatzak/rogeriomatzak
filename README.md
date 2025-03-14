@@ -18,9 +18,9 @@
 
 ---
  ### 🎯 Interesses Profissionais
- **Inteligência Artificial e Machine Learning**: Estou sempre em busca de melhorar minhas habilidades em IA, aplicando-a para resolver problemas do mundo real.
-**Data Engineering**: Tenho grande interesse em explorar como dados podem ser organizados e utilizados de forma mais eficiente para insights valiosos.
-**Automação de Processos**: Busco constantemente melhorar a eficiência dos fluxos de trabalho com a automação de tarefas repetitivas.
+- **Inteligência Artificial e Machine Learning**: Estou sempre em busca de melhorar minhas habilidades em IA, aplicando-a para resolver problemas do mundo real.
+- **Data Engineering**: Tenho grande interesse em explorar como dados podem ser organizados e utilizados de forma mais eficiente para insights valiosos.
+- **Automação de Processos**: Busco constantemente melhorar a eficiência dos fluxos de trabalho com a automação de tarefas repetitivas.
 
 ---
 ### 📌 Projetos em Destaque

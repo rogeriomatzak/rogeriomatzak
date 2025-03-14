@@ -16,20 +16,19 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
+---
+ ### 🎯 Interesses Profissionais
+ **Inteligência Artificial e Machine Learning**: Estou sempre em busca de melhorar minhas habilidades em IA, aplicando-a para resolver problemas do mundo real.
+**Data Engineering**: Tenho grande interesse em explorar como dados podem ser organizados e utilizados de forma mais eficiente para insights valiosos.
+**Automação de Processos**: Busco constantemente melhorar a eficiência dos fluxos de trabalho com a automação de tarefas repetitivas.
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark)
-
----
-
 ### 📌 Projetos em Destaque
 
 - 🖥️ **Dashboard de Monitoramento**: Sistema para análise de recursos em notebooks de home office.  
 - 📊 **Análise de Dados de Temperatura**: Processamento de dados com R para visualizar tendências.  
-- 🔍 **Sistema de Cadastro**: Implementação de validações avançadas no sistema RemoteGuard.  
+- 🔍 **Sistema de Cadastro**: Implementação de validações avançadas no sistema RemoteGuard.
+- 📊 **Implementação de Dashboards** : Gráficos interativos utilizando Chart.js e Apex.js para visualização de dados de servidores e máquinas.
 
 ---
 
